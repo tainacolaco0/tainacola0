@@ -4,15 +4,15 @@ body{
     
     Estilizar o título principal do seu site
      h1{
-    color:rgb(255, 0, 221);
+    color:blue (255, 0, 221);
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
     background: rgb(251, 255, 0);
     }
     
     Estilizar os parágrafos
     p{
-    color:rgb(0, 81, 255) ;
+    color:rgb(255, 0, 119) ;
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
     font: size 20px; ;
-    background: rgb(0, 255, 200);
+    background: rgb(0, 140, 255);
     }
